@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ok">OK</string>
+    <string name="digite">Digite:</string>
+    <string name="calcular">Calcular</string>
+    <string name="set_y">Set Y</string>
+    <string name="set_x">Set X</string>
+    <string name="resultado">Resultado</string>
+    <string name="y">Y</string>
+    <string name="soma">Soma</string>
+    <string name="variavel_y">Variavel Y</string>
+    <string name="x">X</string>
+    <string name="variavel_x">Variavel X</string>
+</resources>
